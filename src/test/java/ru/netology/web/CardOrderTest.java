@@ -18,7 +18,6 @@ import java.util.List;
  class CardOrderTest {
 
     private WebDriver driver;
-    ChromeOptions options;
 
     @BeforeAll
     static void setUpAll() {
